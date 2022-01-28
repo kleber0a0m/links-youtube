@@ -13,7 +13,7 @@ https://www.home-assistant.io/integrations/tuya
 Como instalar: https://github.com/custom-cards/button-card#installation
 
 ## Códigos:
-Icones: https://materialdesignicons.com/
+Ícones: https://materialdesignicons.com/
 ### Botão unico:
 
  ![Botão unico](https://raw.githubusercontent.com/kleber0a0m/links-youtube/main/imagens/o756cs3o.png)
