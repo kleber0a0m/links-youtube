@@ -5,6 +5,9 @@ Link de compra para os aparelhos usados no védeo:
 - Fita led com controle infravermelho:
   - Fita com entrada USB: https://bit.ly/3IJxAE7
   - Controlador 12V com controle: https://bit.ly/3Glfffj
+
+#### Vídeo:
+  [![Foo](https://raw.githubusercontent.com/kleber0a0m/links-youtube/main/imagens/m97xmi49.png)](https://youtu.be/yE3Z0WE3MTE)
   
 ## Requisitos:
 ##### 1. Integração Tuya ativada no Home Assistent:
