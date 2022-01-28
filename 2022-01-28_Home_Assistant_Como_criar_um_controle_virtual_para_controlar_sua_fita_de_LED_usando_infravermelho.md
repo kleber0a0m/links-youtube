@@ -3,7 +3,7 @@
 Link de compra para os aparelhos usados no védeo:
 - Infravermelho Avatto: https://bit.ly/3INl6eD
 - Fita led com controle infravermelho:
-  - Fita com entrada USB:https://bit.ly/3IJxAE7
+  - Fita com entrada USB: https://bit.ly/3IJxAE7
   - Controlador 12V com controle: https://bit.ly/3Glfffj
   
 ## Requisitos:
